@@ -1,0 +1,10 @@
+---
+Title: “Exercise 21"
+author: Rachel Delorie
+format: html
+execute:
+  echo: true
+---
+```{r}
+
+```
